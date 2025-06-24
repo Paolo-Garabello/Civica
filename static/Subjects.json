@@ -1,0 +1,89 @@
+{
+    "Migranti": {
+        "image": "/lampedusa.png",
+        "arguments": [
+            "conferenza pietro bartolo",
+            "analisi lettura"
+        ]
+    },
+    "Covid": {
+        "image": "/covid.jpg",
+        "arguments": [
+            "conferenza Mario Raviglione",
+            "schema coronavirus"
+        ]
+    },
+    "Cambiamento Climatico": {
+        "image": "/cambiamento.jpg",
+        "arguments": [
+            "podcast",
+            "Friday for future"
+        ]
+    },
+    "Diritti Umani": {
+        "image": "/diritti.jpg",
+        "arguments": [
+            "Calamandrei",
+            "diritti umani nel mondo"
+        ]
+    },
+    "Comportamento online": {
+        "image": "/comportamento.png",
+        "arguments": [
+            "netquette",
+            "controllo password"
+        ]
+    },
+    "Informatica": {
+        "image":"/web.jpg",
+        "arguments": [
+            "storia informatica",
+            "web technologies"
+        ]
+    },  
+    "Genocidi": {
+        "image": "/genocidio.jpg",
+        "arguments": [
+            "Ruanda"
+        ]
+    },
+    "Pena di Morte": {
+        "image": "/morte.jpg",
+        "arguments": [
+            "Death penalty",
+            "l'ultimo giorno di un condannato a morte"
+        ]
+    },
+    "Mafia": {
+        "image": "/combattimento_mafia.jpg",
+        "arguments": [
+            "Agende rosse",
+            "30 anni",
+            "Viale lazio",
+            "impastato",
+            "il mio silenzio è una stella"
+        ]
+    },
+    "Violenza di genere": {
+        "image": "/genere.png",
+        "arguments": [
+            "codice rosso",
+            "dati",
+            "femminicidio e Violenza",
+            "million dollar baby",
+            "1522"
+        ]
+    },
+    "Carceri": {
+        "image": "/carcere.jpg",
+        "arguments": [
+            "Elisabetta Baro",
+            "Senza sbarre",
+            "relazione manicomiale"
+        ]
+    },
+    "war poetry": {
+        "image": "/poetry.jpg",
+        "arguments":[]
+    }
+}
