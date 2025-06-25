@@ -5,13 +5,12 @@
     onMount(async () => {
         const res = await fetch('/Subjects.json');
         subjects = await res.json();
-        console.log(subjects);
     })
 </script>
 
 <section>
     {#each Object.entries(subjects) as [k, v]}
-        <a href="/{k}">
+        <a href="/{v.link}">
             <img src="{v.image}" alt="">
             <p><b>{k}</b></p>
         </a>
@@ -22,8 +21,9 @@
     section {
         display: grid;
         grid-template-columns: 1fr 1fr 1fr;
-        gap: 1vh;
         width: 70vw;
+        column-gap: 1vw;
+        row-gap: 2vh;
         margin-left: 15vw;
     }
     a {
@@ -43,6 +43,7 @@
     a:hover img {
         transform: scale(1.1);
         filter: blur(0px);
+        transition: transform 0.2s ease;
     }
     img {
         border-radius: 20px;

@@ -1,61 +1,70 @@
 {
     "Migranti": {
-        "image": "/lampedusa.png",
+        "link": "Migranti",
+        "image": "/backgrounds/lampedusa.png",
         "arguments": [
             "conferenza pietro bartolo",
             "analisi lettura"
         ]
     },
     "Covid": {
-        "image": "/covid.jpg",
+        "link": "Covid",
+        "image": "/backgrounds/covid.jpg",
         "arguments": [
             "conferenza Mario Raviglione",
             "schema coronavirus"
         ]
     },
     "Cambiamento Climatico": {
-        "image": "/cambiamento.jpg",
+        "link": "CambiamentoClimatico",
+        "image": "/backgrounds/cambiamento.jpg",
         "arguments": [
             "podcast",
             "Friday for future"
         ]
     },
     "Diritti Umani": {
-        "image": "/diritti.jpg",
+        "link": "DirittiUmani",
+        "image": "/backgrounds/diritti.jpg",
         "arguments": [
             "Calamandrei",
             "diritti umani nel mondo"
         ]
     },
     "Comportamento online": {
-        "image": "/comportamento.png",
+        "link": "ComportamentoOnline",
+        "image": "/backgrounds/comportamento.png",
         "arguments": [
             "netquette",
             "controllo password"
         ]
     },
     "Informatica": {
-        "image":"/web.jpg",
+        "link": "Informatica",
+        "image":"/backgrounds/web.jpg",
         "arguments": [
             "storia informatica",
             "web technologies"
         ]
     },  
     "Genocidi": {
-        "image": "/genocidio.jpg",
+        "link": "Genocidi",
+        "image": "/backgrounds/genocidio.jpg",
         "arguments": [
             "Ruanda"
         ]
     },
     "Pena di Morte": {
-        "image": "/morte.jpg",
+        "link": "PenaDiMorte",
+        "image": "/backgrounds/morte.jpg",
         "arguments": [
             "Death penalty",
             "l'ultimo giorno di un condannato a morte"
         ]
     },
     "Mafia": {
-        "image": "/combattimento_mafia.jpg",
+        "link":"Mafia",
+        "image": "/backgrounds/combattimento_mafia.jpg",
         "arguments": [
             "Agende rosse",
             "30 anni",
@@ -65,7 +74,8 @@
         ]
     },
     "Violenza di genere": {
-        "image": "/genere.png",
+        "link":"ViolenzaDiGenere",
+        "image": "/backgrounds/genere.png",
         "arguments": [
             "codice rosso",
             "dati",
@@ -75,7 +85,8 @@
         ]
     },
     "Carceri": {
-        "image": "/carcere.jpg",
+        "link":"Carceri",
+        "image": "/backgrounds/carcere.jpg",
         "arguments": [
             "Elisabetta Baro",
             "Senza sbarre",
@@ -83,7 +94,8 @@
         ]
     },
     "war poetry": {
-        "image": "/poetry.jpg",
+        "link": "WarPoetry",
+        "image": "/backgrounds/poetry.jpg",
         "arguments":[]
     }
 }
