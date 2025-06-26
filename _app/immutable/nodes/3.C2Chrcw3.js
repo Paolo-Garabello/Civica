@@ -1,0 +1,1 @@
+import"../chunks/Y_4AeYci.js";import"../chunks/BnE6ET6W.js";import{p,a as s}from"../chunks/DJnHSBBD.js";import{i}from"../chunks/B9gSHdoR.js";import{w as m}from"../chunks/CtxXc6RG.js";import{S as a}from"../chunks/C6F3vfu2.js";function j(t,o){p(o,!1);const r=m("PCTO");i(),a(t,{get subject(){return r}}),s()}export{j as component};
