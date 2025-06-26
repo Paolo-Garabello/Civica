@@ -1,7 +1,11 @@
+<script>
+	import { base } from "$app/paths";
+
+</script>
 
 <section>
-    <a href="/">Portfolio</a>
-    <a href="/PCTO">PCTO</a>
+    <a href="{base}/">Portfolio</a>
+    <a href="{base}/PCTO">PCTO</a>
 </section>
 
 <style>

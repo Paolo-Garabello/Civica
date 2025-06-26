@@ -11,7 +11,7 @@
 
 <section>
     {#each Object.entries(subjects) as [k, v]}
-        <a href="/{v.link}">
+        <a href="{base}/{v.link}">
             <img src="{v.image}" alt="">
             <p><b>{k}</b></p>
         </a>
