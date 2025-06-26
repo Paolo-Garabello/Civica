@@ -2,7 +2,6 @@
 <section>
     <a href="/">Portfolio</a>
     <a href="/PCTO">PCTO</a>
-    <a href="/about">About</a>
 </section>
 
 <style>

@@ -42,8 +42,8 @@
     }
     a:hover img {
         transform: scale(1.1);
-        filter: blur(0px);
         transition: transform 0.2s ease;
+        filter: blur(0px);
     }
     img {
         border-radius: 20px;

@@ -35,8 +35,9 @@
         "link": "ComportamentoOnline",
         "image": "/backgrounds/comportamento.png",
         "arguments": [
-            "netquette",
-            "controllo password"
+            "netiquette",
+            "controllo password",
+            "fake news"
         ]
     },
     "Informatica": {
@@ -62,7 +63,7 @@
             "l'ultimo giorno di un condannato a morte"
         ]
     },
-    "Mafia": {
+    "Mafia e Stragi": {
         "link":"Mafia",
         "image": "/backgrounds/combattimento_mafia.jpg",
         "arguments": [
@@ -71,7 +72,7 @@
             "Viale lazio",
             "impastato",
             "il mio silenzio è una stella"
-        ]
+        ]   
     },
     "Violenza di genere": {
         "link":"ViolenzaDiGenere",
