@@ -4,7 +4,7 @@
     let subjects = {};
 
     onMount(async () => {
-        const res = await fetch(`/${base}/Subjects.json`);
+        const res = await fetch(`${base}/Subjects.json`);
         subjects = await res.json();
     })
 </script>

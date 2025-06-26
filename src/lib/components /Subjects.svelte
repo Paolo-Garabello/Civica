@@ -8,7 +8,7 @@
     let { subject } = $props()
     
     onMount(async () => {
-        const data = await fetch(`/${base}/${$subject}/arguments.json`);
+        const data = await fetch(`${base}/${$subject}/arguments.json`);
         args = await data.json();
     })
 
