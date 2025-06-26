@@ -1,0 +1,24 @@
+[
+    { 
+        "header": "Conferenza con il dottor Pietro Bartolo",
+        "content": {
+            "type": "p",
+            "src": "Nella conferenza il dottore ha parlato della sua esperienza sull'isola di Lampedusa e delle situazioni terribili in cui gli immigrati arrivano in Italia, alla ricerca di migliori condizioni di vita"
+        },
+        "media": {
+            "type": "yt",
+            "src": "https://www.youtube.com/embed/eHEZwiyect4?si=9oPPO0DDPba6JNEu"
+        }
+    },
+    {
+        "header": "Analisi sulla lettura",
+        "content": {
+            "type": "p",
+            "src": "Dopo aver letto il libro 'Le Stelle di Lampedusa', che parla dell'esperienza di Petro Bartolo sull'isola di Lampedusa e della storia di Anila, una piccola bambina immigrata alla ricerca della madre nella vasta Europa"
+        },
+        "media": {
+            "type": "doc",
+            "src": "https://docs.google.com/document/d/e/2PACX-1vTZfb_8nhykSgX_LXT8ZRCH5gPEAK6-YttQrwJkjYawqnulqhzM-FaT9KShzbWbgQk41Fu_B67q6C8D/pub?embedded=true"
+        }
+    }
+]

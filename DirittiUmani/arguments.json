@@ -1,0 +1,21 @@
+[
+    {
+        "header": "Calamandrei è un politico che ha contribuito alla creazione della costituzione italiana",
+        "content": {
+            "type": "p",
+            "src": "La Costituzione non è una macchina che una volta messa in moto va avanti da sé. La Costituzione è un pezzo di carta: la lascio cadere e non si muove. Perché si muova bisogna ogni giorno rimetterci dentro il combustibile, bisogna metterci dentro l'impegno, lo spirito, la volontà di mantenere queste promesse, la propria responsabilità. Per questo una delle offese che si fanno alla Costituzione è l'indifferenza alla politica"
+        },
+        "media": {
+            "type": "img",
+            "alt": "calamandrei",
+            "src": "/DirittiUmani/media/calamandrei.jpg"
+        }
+    },
+    {
+        "header": "Riflessione sui diritti umani nel mondo",
+        "media": {
+            "type": "doc",
+            "src": "https://docs.google.com/document/d/e/2PACX-1vQp2gX96097EhGiQIdKaJE-Er3rhJU2j9CDIZtco-fUoPimtBeKethb4bRNGyzzpaUWogY0ubuGrRIp/pub?embedded=true"
+        }
+    }
+]

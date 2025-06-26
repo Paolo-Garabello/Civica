@@ -1,0 +1,40 @@
+[
+    {
+        "header": "Netiquette",
+        "content": {
+            "type": "p",
+            "src": "Una presentazione in cui vengono esposte le buone preatiche da mantenere, e quelle da evitare mentre si interagisce con altre persone sul web"
+        },
+        "media": {
+            "type": "pptx",
+            "src": "https://docs.google.com/presentation/d/e/2PACX-1vQsAd145zcM5qjNFraZ0hcESdcNhUwS2MoHXBKGLfd0MDGiZoqxW981aZhVERHLFs36a9IJF3-Ki6E7/embed?start=false&loop=false&delayms=5000"
+        }
+    },
+    {
+        "header": "Short sulle teorie del complotto",
+        "content":{
+            "type": "p",
+            "src": "Ci è stato chiesto di creare un contenuto digitale che affronta una parte del problema delle fake news, io ho scelto di parlare dei complottisti"
+        },
+        "media": {
+            "type": "video",
+            "src": "/ComportamentoOnline/media/I_complottisti.mp4"
+        }
+    },
+    {
+        "header": "Progetto Controllo Password",
+        "content": {
+            "type": "[p]",
+            "src": [
+                "Ho creato un'applicazione web al fine di calcolare se una password immessa sia sicura o meno",
+                "Ho fatto questa esperienza a seguito di una lezione di approfondimento relativo ai metodi principali di cracking di password, in cui venivano analizzate le 'best practice' per mantenere le proprie password sicure"
+            ]
+        },
+        "media":{
+            "type": "link",
+            "text": "File del progetto",
+            "src": "https://github.com/Paolo-Garabello/ControlloPassword",
+            "image": "/ComportamentoOnline/media/password.png"
+        }    
+    }
+]

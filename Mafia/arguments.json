@@ -1,0 +1,77 @@
+[
+    {
+        "link": {
+            "name": "Agende Rosse",
+            "src": "https://www.19luglio1992.com"
+        },
+        "content": {
+            "type": "[p]",
+            "src": [
+                "Agende Rosse è un movimento che punta alla compleata luce sugli avvenimenti della strage di Via D'Amelio a Palermo il 19 luglio 1992 nella quale furono uccisi il Magistrato Paolo Borsellino e gli agenti di Polizia Emanuela Loi, Agostino Catalano, Claudio Traina, Eddie Walter Cosina e Vincenzo Li Muli.",
+                "Il movimento nasce da Salvatore Borsellino il quale nel 2007 scrive la lettera '19 luglio 1992: una strage di Stato', nella quale afferma che la ragione per la morte del fratello sia da ricercare nell'accordo di non belligeranza tra pezzi dello Stato e Cosa Nostra: Salvatore chide di avere risposte sulle e omissioni delle più elementari misure di sicurezza in via D'Amelio il giorno della strage."
+            ]
+        },
+        "media": {
+            "type": "img",
+            "src": "/Mafia/media/falcone-borsellino.jpg"
+        }
+    },
+    {
+        "header": "Incontri con il movimento",
+        "content": {
+            "type": "p",
+            "src": "Durante i vari incontri che abbimao fatto con vari membri del movimento abbiamo avuto modo di approfondire alcune dinamiche non molto conosciute degli avvenimenti, approdondendo l'importanza dell'evitare l'indifferenza e combattere il pensiero mafioso, ricordando anche le stragi del passato "
+        },
+        "media": {
+            "type":"img",
+            "src": "/Mafia/media/incontro.avif"
+        }
+    },
+    {
+        "header": "Falcone e Borsellino - 30 anni dalle stragi di mafia",
+        "content": {
+            "type": "p",
+            "src": "A 30 anni dalla strage di Via D'Amelio si ha parlato degli omicidi di mafia in Italia e dell'importanza del ruolo di Paolo Borsellno e Giovanni Falcone nelle loro indagini contro i reati mafiosi. Il video parla degli attentati che uccisero i due giudici"
+        },
+        "media": {
+            "type": "yt",
+            "src": "https://www.youtube.com/embed/CKy4xEEwGrc"
+        }
+    },
+    {
+      "header": "Strage di viale Lazio",
+        "content": {
+            "type": "p",
+            "src": "Il video sottostante parla di uno degli omicidi mafiosi più brutali della storia di Cosa Nostra: la strage di Viale Lazio, includendo anche le testimonianze di tre collaboratori di giustizia: Tommaso Buscetta, Gaetano Grado e Rosario Naimo."
+        },
+        "media": {
+            "type": "yt",
+            "src": "https://www.youtube.com/embed/OrEOgcF6f00"
+            
+        }  
+    },
+    {
+      "header": "Peppino Impastato",
+        "content": {
+            "type": "p",
+            "src": "Il video parla della vita di Giuseppe Impastato, detto Peppino, che ha combattuto contro la mafia in Sicilia negli anni '70."
+        },
+        "media": {
+            "type": "yt",
+            "src": "https://www.youtube.com/embed/ag1_vfwzgFA"
+        }  
+    },
+    
+    {
+      "header": "Il mio silenzio è una stella",
+        "content": {
+            "type": "p",
+            "src": "Dopo la lettura del libro 'Il mio silenzio è una stella', abbiamo avuto l'opportunità di incotrare l'autrice Sabrina Pisu."
+        },
+        "media": {
+            "type": "yt",
+            "src": "https://www.youtube.com/embed/xCkwu6R7fdg"
+        }  
+    }
+]
+

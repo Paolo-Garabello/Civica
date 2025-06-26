@@ -1,0 +1,102 @@
+{
+    "Migranti": {
+        "link": "Migranti",
+        "image": "/backgrounds/lampedusa.png",
+        "arguments": [
+            "conferenza pietro bartolo",
+            "analisi lettura"
+        ]
+    },
+    "Covid": {
+        "link": "Covid",
+        "image": "/backgrounds/covid.jpg",
+        "arguments": [
+            "conferenza Mario Raviglione",
+            "schema coronavirus"
+        ]
+    },
+    "Cambiamento Climatico": {
+        "link": "CambiamentoClimatico",
+        "image": "/backgrounds/cambiamento.jpg",
+        "arguments": [
+            "podcast",
+            "Friday for future"
+        ]
+    },
+    "Diritti Umani": {
+        "link": "DirittiUmani",
+        "image": "/backgrounds/diritti.jpg",
+        "arguments": [
+            "Calamandrei",
+            "diritti umani nel mondo"
+        ]
+    },
+    "Comportamento online": {
+        "link": "ComportamentoOnline",
+        "image": "/backgrounds/comportamento.png",
+        "arguments": [
+            "netiquette",
+            "controllo password",
+            "fake news"
+        ]
+    },
+    "Informatica": {
+        "link": "Informatica",
+        "image":"/backgrounds/web.jpg",
+        "arguments": [
+            "storia informatica",
+            "web technologies"
+        ]
+    },  
+    "Genocidi": {
+        "link": "Genocidi",
+        "image": "/backgrounds/genocidio.jpg",
+        "arguments": [
+            "Ruanda"
+        ]
+    },
+    "Pena di Morte": {
+        "link": "PenaDiMorte",
+        "image": "/backgrounds/morte.jpg",
+        "arguments": [
+            "Death penalty",
+            "l'ultimo giorno di un condannato a morte"
+        ]
+    },
+    "Mafia e Stragi": {
+        "link":"Mafia",
+        "image": "/backgrounds/combattimento_mafia.jpg",
+        "arguments": [
+            "Agende rosse",
+            "30 anni",
+            "Viale lazio",
+            "impastato",
+            "il mio silenzio è una stella"
+        ]   
+    },
+    "Violenza di genere": {
+        "link":"ViolenzaDiGenere",
+        "image": "/backgrounds/genere.png",
+        "arguments": [
+            "codice rosso",
+            "dati",
+            "femminicidio e Violenza",
+            "million dollar baby",
+            "1522"
+        ]
+    },
+    "Carceri": {
+        "link":"Carceri",
+        "image": "/backgrounds/carcere.jpg",
+        "arguments": [
+            "Elisabetta Baro",
+            "Senza sbarre",
+            "relazione manicomiale"
+        ]
+    },
+    "war poetry": {
+        "link": "WarPoetry",
+        "image": "/backgrounds/poetry.jpg",
+        "arguments":[]
+    }
+}

@@ -1,0 +1,24 @@
+[
+    {
+        "header": "Videoconferenza con il dottor Mario Raviglione",
+        "content": {
+            "type": "p",
+            "src": "Si è svolta una conferenza con il virologo Mario Raviglione per parlare dell'attuale COVID-19 e dei virus passati."
+        },
+            "media": {
+            "type": "yt",
+            "src": "https://www.youtube.com/embed/ok7dwFCl160?si=7G-T9KIKo7oAmoT8"
+        }
+    },
+    {
+        "header": "Schema sulle infezioni coronavirus",
+        "content": {
+            "type": "p",
+            "src": "Dopo aver fatto la conferenza con il dottor Raviglione, ho fatto uan mappa che riassumeva ciò che ha detto il dottore"
+        },
+        "media": {
+            "type": "doc",
+            "src": "/Covid/media/schema_coronavirus_scienze.pdf"
+        }
+    }
+]

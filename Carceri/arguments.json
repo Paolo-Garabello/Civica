@@ -1,0 +1,20 @@
+[
+    {
+        "header": "Relazione sulla situazione manicomiale in Italia",
+        "media": {
+            "type": "doc",
+            "src": "https://docs.google.com/document/d/e/2PACX-1vRLmf00v4y54r595Xt46g0Igwe0xN_VQi8Pss2YkQaQKI62dfYFEHx0yDOzvYfAhdBLvjOmHc6KIL54/pub?embedded=true"
+        }
+    },
+    {
+        "header": "Senza Sbarre",
+        "content": {
+            "type": "p",
+            "src": "Dopo la lettura del libro 'Senza Sbarre', abbiamo avuto l'opportunità di incotrare l'autrice Cosima Buccoliero"
+        },
+        "media": {
+            "type": "yt",
+            "src": "https://www.youtube.com/embed/FuyUlwkK97M"
+        }
+    }
+]

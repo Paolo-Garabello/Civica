@@ -1,0 +1,26 @@
+[
+    {
+        "header": "Agnellicast",
+        "content": {
+            "type": "p",
+            "src": "Abbiamo registrato un podcast dove affrontiamo l'impatto che il cambiamento climatico ha avuto sulle nostre vite confrontando il presente con il passato"
+        },
+        "media": {
+            "type": "audio",
+            "src": "/CambiamentoClimatico/media/agnellicast.mp4",
+            "cover": "/CambiamentoClimatico/media/cambiamento-climatico.webp",
+            "alt": "cambiamento-climatico"
+        }
+    },
+    {
+        "header": "Mappa sull'incontro con degli attivisti del movimento 'Fridays For Future'",
+        "content":{
+            "type": "p",
+            "src": "Abbiamo afrrontato un percorso affrontando l'argomento del cambiamento climatico, percorso che è giunto a termine con un incontro con degli ativisti del movimento Fridays for Future"
+        },
+        "media": {
+            "type": "pptx",
+            "src": "https://docs.google.com/presentation/d/e/2PACX-1vQtL5SUw16xxYrgieAs0p_-KJWesptAgB3oVBzOiKrlzcvNdzsy9iRvx_H_RlueTw/embed?"
+        }
+    }
+]

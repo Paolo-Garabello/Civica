@@ -1,0 +1,26 @@
+[
+    {
+        "link": {
+            "name": "PCTO a Betacom srl",
+            "src": "https://www.betacom.it"
+        },
+        "content": {
+            "type": "[p]",
+            "src": [
+                "Betacom è un'azienda che offre  servizi informatici di consulenza, progettazione e sviluppo di soluzioni software & IT.",
+                "Durante le tre settimane che ho passato con loro in ufficio ho avuto modo di sviluppare un'applicazione web il cui tema era a scelta ma che dovesse implementare alcune funziolità",
+                "Grazie a questa esperienza ho per la prima volta progettato un sistema client-server con comunicazione basata su delle api utilizzando solo javascript vanilla per il backend e JQuery per facilitare lo sviluppo front-end"
+            ]
+        },
+        "media": {
+            "type": "img",
+            "src": "/PCTO/media/betacom.png"
+        }
+    },
+    {
+        "media": {
+            "type": "img",
+            "src":"/PCTO/media/conclusione.jpg"
+        }
+    }
+]

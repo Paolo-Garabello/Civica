@@ -1,0 +1,24 @@
+[
+    {
+        "header": "Death penalty",
+        "content":{
+            "type": "p",
+            "src": "We discussed using an essay whether or not the death penalty should be reintroduced in today's law"
+        },
+        "media": {
+            "type": "doc",
+            "src": "https://docs.google.com/document/d/e/2PACX-1vRIfh50LdFX0ZMqL614soZPJKKHdh66SGq6MNZvQ4yh_1JGD0Of0Y2KisdbQw7B9iFeCQzutgVZMT0p/pub?embedded=true"
+        }
+    },
+    {
+        "header": "L'ultimo giorno di un Condannato a Morte - Victor Hugo",
+        "content": {
+            "type": "p",
+            "src": "L'ultimo giorno di un condannato a morte è un romanzo di Victor Hugo che racconta il monologo interiore di a partire dalla condanna fino al patibolo di un personaggio di cui non sappiano ne il nome, ne la pena. Hugo decide di non includere queste informazioni per fare in modo che questo detenuto posso simboleggiare chiunque debba subire la stessa pena e ci racconta della disperazione di quest'uomo all'avvicinarsi della data della sua esecuzione, della tristezza nel salutare la figlia che non lo riconosce perchè cambiato fisicamente dal tempo trascorso in carcere e infine della disperata speranza che sul patibolo posso raggiungere una grazie che lui non vedrà mai"
+        },
+        "media": {
+            "type": "yt",
+            "src": "https://www.youtube.com/embed/EeGa-YNNemk"
+        }
+    }
+]

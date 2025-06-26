@@ -1,0 +1,13 @@
+[
+    {
+        "header": "Approfondimento sul genocidio del Ruanda",
+        "content":{
+            "type": "p",
+            "src": "Dopo aver afforntato l'argomento dei genocidi durante le lezioni ad ognuno di noi è stato assegnata la ricerca riguardo un genocidio avvenuto, io ho scelto di informarmi su qeullo avvenuto in Ruanda"
+        },
+        "media": {
+            "type": "pptx",
+            "src": "https://docs.google.com/presentation/d/e/2PACX-1vSexuXyqzHMv5f5MYaHpcjSPzI4Aim4jcSxEUzyp9-S_F8UPlB4ZrM-pMfa87NQ8fOQf3PkRfejjXYv/embed?start=false&loop=false&delayms=3000"
+        }
+    }
+]
