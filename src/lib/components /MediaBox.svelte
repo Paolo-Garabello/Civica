@@ -11,7 +11,11 @@
     {#if media.type === "yt"}
         <iframe src={media.src} title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     {:else if media.type === "doc"}
-        <iframe id="doc" src={media.src} title="document"></iframe>
+        {#if media.local}   
+            <iframe id="doc" src="{base}/{media.src}" title="document"></iframe>
+        {:else}
+            <iframe id="doc" src="{media.src}" title="document"></iframe>
+        {/if}
     {:else if media.type === "pptx"}
         <iframe src="{media.src}" title="powerpoint" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
     {:else if media.type === "img"}
