@@ -12,7 +12,7 @@
 <section>
     {#each Object.entries(subjects) as [k, v]}
         <a href="{base}/{v.link}">
-            <img src="{v.image}" alt="">
+            <img src="{base}/{v.image}" alt="">
             <p><b>{k}</b></p>
         </a>
     {/each}
