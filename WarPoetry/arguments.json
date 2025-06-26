@@ -7,6 +7,7 @@
         },
         "media": {
             "type": "doc",
+            "local": true,
             "src": "/WarPoetry/media/Think-of-a-land.pdf"
         }
     }

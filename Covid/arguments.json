@@ -18,6 +18,7 @@
         },
         "media": {
             "type": "doc",
+            "local": true,
             "src": "/Covid/media/schema_coronavirus_scienze.pdf"
         }
     }
