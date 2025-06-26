@@ -1,4 +1,5 @@
 <script>
+	import { base } from "$app/paths";
 	import ContentBox from "$lib/components /ContentBox.svelte";
 	import MediaBox from "$lib/components /MediaBox.svelte";
 	import { onMount } from "svelte";
@@ -7,7 +8,7 @@
     let { subject } = $props()
     
     onMount(async () => {
-        const data = await fetch(`/${$subject}/arguments.json`);
+        const data = await fetch(`/${base}/${$subject}/arguments.json`);
         args = await data.json();
     })
 

@@ -25,7 +25,10 @@ const config = {
 				'/ViolenzaDiGenere',
 				'/WarPoetry'
 			]
-    	}		
+    	},
+		paths: {
+			base: process.env.BASE_PATH ?? ""
+		}	
 	}
 };
 

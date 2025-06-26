@@ -1,9 +1,10 @@
 <script>
+	import { base } from "$app/paths";
 	import { onMount } from "svelte";
     let subjects = {};
 
     onMount(async () => {
-        const res = await fetch('/Subjects.json');
+        const res = await fetch(`/${base}/Subjects.json`);
         subjects = await res.json();
     })
 </script>
